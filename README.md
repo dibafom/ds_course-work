@@ -37,4 +37,4 @@ streamlit run app.py
 ```
 
 ## Видео-демонстрация
-[Видео](video/demo.mp4) 
+[Видео](video/video.mp4) 
